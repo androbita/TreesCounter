@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TreesCounter</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">EMAIL</string>
+    <string name="login">LOGIN</string>
+    <string name="register_here">Register here!!</string>
+    <string name="donothave">don\'t have an account ?</string>
+    <string name="name">Name</string>
+    <string name="menu">MENU</string>
+    <string name="show_all_trees_data">Trees Data</string>
+    <string name="scan_tree_s_qr">Scan QR</string>
+    <string name="add_image">add image</string>
+    <string name="tree_s_injection">tree\'s injection</string>
+    <string name="update_trees_data">Update Trees Data</string>
+    <string name="tree_s_number">tree\'s number</string>
+    <string name="tree_s_names">tree\'s names</string>
+    <string name="tree_s_height">tree\'s height</string>
+    <string name="tree_s_diameter">tree\'s diameter</string>
+    <string name="tree_s_location">tree\'s location</string>
+    <string name="tree_s_injector">tree\'s injector</string>
+    <string name="submit">submit</string>
+    <string name="username">Username</string>
+    <string name="see_in_pdf">See in PDF</string>
+    <string name="tree_owner">tree\'s owner</string>
+    <string-array name="list_data">
+        <item>---choose---</item>
+        <item>already injection</item>
+        <item>not yet injection</item>
+    </string-array>
+</resources>
